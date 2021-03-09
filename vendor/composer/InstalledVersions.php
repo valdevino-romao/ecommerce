@@ -25,25 +25,16 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'hcodebr/ecommerce',
+    'reference' => 'c186364b5d24a007ff4005a6f156acf379d28c53',
+    'name' => 'valdevino-romao/ecommerce',
   ),
   'versions' => 
   array (
-    'hcodebr/ecommerce' => 
-    array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => NULL,
-    ),
     'phpmailer/phpmailer' => 
     array (
       'pretty_version' => 'v5.2.22',
@@ -70,6 +61,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '3e95c9abbc57a8f023ab4dacebcab9dae4d9f1f0',
+    ),
+    'valdevino-romao/ecommerce' => 
+    array (
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c186364b5d24a007ff4005a6f156acf379d28c53',
     ),
   ),
 );

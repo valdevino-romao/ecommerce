@@ -1,8 +1,8 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "valdevino-romao/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
+            "name": "Hcode Treinamento",
             "email": "suporte@hcode.com.br"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
